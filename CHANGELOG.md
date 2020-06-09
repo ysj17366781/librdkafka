@@ -1,3 +1,18 @@
+# librdkafka v1.6.0
+
+The v1.6.0 release is a feature release adding support for Incremental
+rebalancing of consumer groups.
+
+
+
+## Enhancements
+
+ * Added `assignor` debug context for troubleshooting consumer partition
+   assignments.
+
+
+
+
 # librdkafka v1.5.2
 
 librdkafka v1.5.2 is a maintenance release.
